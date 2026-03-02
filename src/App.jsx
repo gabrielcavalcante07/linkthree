@@ -1,6 +1,6 @@
 import "./App.css";
 import { Button } from "./components/button";
-import me from "./assets/me.png";
+import me from "./assets/me2.jpg";
 import fingerprint from "./assets/icons/fingerprint.svg"
 import linkedin from "./assets/icons/linkedin.svg"
 import github from "./assets/icons/github.svg"
@@ -19,7 +19,7 @@ export function App() {
           <div className="absolute bottom-0 w-full h-28 bg-gradient-to-b from-transparent via-zinc-900 to-zinc-900 z-10"> 
             <h1 className="text-white text-3xl flex justify-center font-semibold mt-14">Gabriel Cavalcante</h1>
             <h1 className="text-purple-600 text-xl flex justify-center font-semibold">Desenvolvedor FullStack</h1>
-            </div>
+          </div>
         </div>
 
         <div className="mt-16 flex justify-center items-center flex-col gap-2">
